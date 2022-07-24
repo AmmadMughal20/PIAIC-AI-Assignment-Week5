@@ -1,5 +1,5 @@
+#Program to print the minimum value in a list
 from random import randrange
-
 
 numbers = []
 

@@ -1,3 +1,4 @@
+#Program to compare the list elements and print the common elements
 lst1size = int(input('\nWhat is the size of first list? '))
 lst2size = int(input('What is the size of first list? '))
 list1 = []

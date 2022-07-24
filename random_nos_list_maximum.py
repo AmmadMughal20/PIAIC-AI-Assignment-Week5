@@ -1,3 +1,5 @@
+#Program to print the maximum element in a list
+
 from random import randrange
 
 numbers = []

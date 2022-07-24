@@ -1,3 +1,4 @@
+#Program to print elements of list greater than 40
 
 from random import randrange
 list = []

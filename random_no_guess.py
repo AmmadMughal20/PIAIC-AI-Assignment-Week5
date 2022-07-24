@@ -1,3 +1,4 @@
+#Program to guess the random no. by having three guess
 from random import randrange
 random_no = randrange(1, 10)
 guess1, guess2, guess3 = int(input('Enter your first guess: ')), int(input('Enter your second guess: ')), int(input('Enter your third guess: '))
